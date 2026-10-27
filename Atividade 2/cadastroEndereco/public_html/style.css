@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#principal {
+    margin-top: 60px;
+    padding: 20px 30px;
+    background-color: #ffffff;
+    border: 2px solid #333333;
+    border-radius: 15px;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+#principal h2 {
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+
+.btn-primary {
+    background-color: #4f2bf2;
+    border-color: #4f2bf2;
+}
